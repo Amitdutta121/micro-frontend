@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhome=self.webpackChunkhome||[]).push([[252],{3252:(e,t,n)=>{n.r(t),n.d(t,{default:()=>c});var r=n(2950),a=n.n(r);function c(){return a().createElement("div",{className:"p-5 bg-gray-800 text-white text-3xl font-bold text-center"},"Micro frontend")}}}]);
